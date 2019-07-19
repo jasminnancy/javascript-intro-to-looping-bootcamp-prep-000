@@ -16,8 +16,4 @@ function whileLoop(n) {
   return "done"
 }
 
-function doWhileLoop(num) {
-  for (num > 0) {
-    do {console.log("I run one regardless.")
-  } while (num() < 0)
-}
+function doWhileLoop(num) {}
