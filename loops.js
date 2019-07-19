@@ -16,4 +16,9 @@ function whileLoop(n) {
   return "done"
 }
 
-function doWhileLoop(num) {}
+function doWhileLoop(num) {{
+  i = i + 1
+  return i;}
+  do {console.log("I run once regardless.")
+  } while (doWhileLoop() < 5)
+}
