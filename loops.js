@@ -17,8 +17,7 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(num) {{
-  num = num + 1
-  return i;}
-  do {console.log("I run once regardless.")
-  } while (doWhileLoop() < 10)
+  do {console.log("I run once regardless.")} 
+  while (doWhileLoop() < 10)
+  }
 }
