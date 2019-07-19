@@ -20,5 +20,4 @@ function doWhileLoop(num) {
   for (num > 0) {
     do {console.log("I run one regardless.")
   } while (num() < 0)
- }
 }
