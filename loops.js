@@ -16,4 +16,6 @@ function whileLoop(n) {
   return "done"
 }
 
-function doWhileLoop(num) {}
+function doWhileLoop(num) {
+  return "I run once regardless"
+}
